@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pasev\\source\\repos\\Direccion y contenido de un puntero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7975D5AB-1D6D-47AA-BFD5-28556FC972CE}|Modificando una variable mediante punteros\\Modificando una variable mediante punteros.vcxproj|C:\\Users\\pasev\\source\\repos\\Direccion y contenido de un puntero\\Modificando una variable mediante punteros\\Modificando una variable mediante punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7975D5AB-1D6D-47AA-BFD5-28556FC972CE}|Modificando una variable mediante punteros\\Modificando una variable mediante punteros.vcxproj|solutionrelative:Modificando una variable mediante punteros\\Modificando una variable mediante punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B3C7DB-A73A-46B9-B0E8-559D2DCA8C69}|Intercambio de valores usando punteros\\Intercambio de valores usando punteros.vcxproj|C:\\Users\\pasev\\source\\repos\\Direccion y contenido de un puntero\\Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06B3C7DB-A73A-46B9-B0E8-559D2DCA8C69}|Intercambio de valores usando punteros\\Intercambio de valores usando punteros.vcxproj|solutionrelative:Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276077BE-C95D-4229-9F35-87374BE830A6}|Direccion y contenido de un puntero\\Direccion y contenido de un puntero.vcxproj|C:\\Users\\pasev\\source\\repos\\Direccion y contenido de un puntero\\Direccion y contenido de un puntero\\Direccion y contenido de un puntero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{276077BE-C95D-4229-9F35-87374BE830A6}|Direccion y contenido de un puntero\\Direccion y contenido de un puntero.vcxproj|solutionrelative:Direccion y contenido de un puntero\\Direccion y contenido de un puntero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modificando una variable mediante punteros.cpp",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\Direccion y contenido de un puntero\\Modificando una variable mediante punteros\\Modificando una variable mediante punteros.cpp",
+              "RelativeDocumentMoniker": "Modificando una variable mediante punteros\\Modificando una variable mediante punteros.cpp",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\Direccion y contenido de un puntero\\Modificando una variable mediante punteros\\Modificando una variable mediante punteros.cpp",
+              "RelativeToolTip": "Modificando una variable mediante punteros\\Modificando una variable mediante punteros.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T05:25:32.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Intercambio de valores usando punteros.cpp",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\Direccion y contenido de un puntero\\Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp",
+              "RelativeDocumentMoniker": "Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\Direccion y contenido de un puntero\\Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp",
+              "RelativeToolTip": "Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T05:25:01.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Direccion y contenido de un puntero.cpp",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\Direccion y contenido de un puntero\\Direccion y contenido de un puntero\\Direccion y contenido de un puntero.cpp",
+              "RelativeDocumentMoniker": "Direccion y contenido de un puntero\\Direccion y contenido de un puntero.cpp",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\Direccion y contenido de un puntero\\Direccion y contenido de un puntero\\Direccion y contenido de un puntero.cpp",
+              "RelativeToolTip": "Direccion y contenido de un puntero\\Direccion y contenido de un puntero.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T05:24:32.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
